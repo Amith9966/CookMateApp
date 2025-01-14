@@ -1,0 +1,56 @@
+# Smart Recipe Finder (Cook Mate)
+
+## Project Overview
+The **Smart Recipe Finder (Cook Mate)** is a desktop application designed to simplify cooking by suggesting recipes based on the ingredients users already have. Developed as part of BIS 698 Information Systems Capstone Project at Central Michigan University, this project aims to reduce food waste, enhance meal planning, and foster community engagement in culinary experiences.
+
+## Features
+- **Ingredient-Based Recipe Search**: Input available ingredients to receive customized recipe suggestions.
+- **Recipe Submission**: Users can submit their own recipes, complete with ingredients and instructions.
+- **Filtering Options**: Filter recipes by dietary preferences (e.g., vegan, gluten-free) and difficulty levels.
+- **Community-Driven Platform**: Share cooking experiences, upload instructional videos, and engage with other users.
+- **Admin Dashboard**: Manage recipes, users, and community engagement metrics.
+
+## Technologies Used
+- **Programming Language**: Python
+- **GUI Framework**: Tkinter with CustomTkinter
+- **Database**: MySQL
+- **Image Processing**: PIL (Pillow)
+
+## Functional Requirements
+- Secure user authentication and profile management.
+- Recipe search and filtering by ingredients, dietary constraints, and cooking time.
+- Recipe submission and management (by both users and admins).
+- Admin-specific functionalities like content moderation, user management, and system insights.
+
+## Project Phases
+1. **Phase 1: Proposal (10 days)**:
+   - Define system requirements and project scope.
+   - Draft and review the project proposal.
+
+2. **Phase 2: Planning (16 days)**:
+   - Develop Entity-Relationship Diagrams (ERD) and Data Flow Diagrams (DFD).
+   - Create detailed project plans and risk assessments.
+
+3. **Phase 3: Development and Deployment (39 days)**:
+   - System design and implementation.
+   - Testing, validation, and documentation.
+   - Deployment, user training, and final review.
+
+## Goals
+- Reduce food waste by suggesting recipes based on available ingredients.
+- Promote healthier eating by simplifying meal planning.
+- Encourage home cooking with detailed recipe instructions and an engaging community platform.
+- Cater to diverse dietary requirements through advanced filtering options.
+- Enhance user engagement through interactive features like recipe sharing and reviews.
+
+## Project Impact
+Cook Mate is a strategic initiative aimed at transforming the culinary experience. By making cooking accessible and enjoyable, the project supports The Gourmet Hub's mission to foster creativity, reduce food waste, and build a collaborative community around cooking.
+
+---
+
+### Authors
+- Amith Gundluri
+- Shivani Polagouni
+- Srija Vadla
+- Sai Chandu Anumula
+- Venkat Phanindra Pasunooru
